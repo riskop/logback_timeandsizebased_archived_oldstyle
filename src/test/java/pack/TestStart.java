@@ -33,7 +33,7 @@ public class TestStart {
 
     @Test
     public void test() throws Exception{
-        log10MegaByteIn100Seconds();
+        log1MegaByteInOneSecond();
     }
     
 }
